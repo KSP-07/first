@@ -32,8 +32,8 @@ export const projectsData = [
         projectName: 'Social ChatApp',
         projectDesc: 'This project involves the development of an application for secure login, sharing post, like-dislike, follow-unfollow, chatting, along with multiple utils.',
         tags: ['React', 'Nodejs','MongoDb','Socket.io'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: '',
+        demo: '',
         image: ten
     },
     {
