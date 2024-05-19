@@ -1,6 +1,6 @@
 import nasa from '../assets/jpeg/nasa.jpeg'
 export const achievementData = {
-    bio : "I am currently working as a Research Associate at Phronesis Partners.I am an enthusiast who always tries to come up with innovative solutions and ideas for making the project successful. My problem-solving skills are a positive factor. I was technical head of Computer Society Of India CUSC. I worked as a Web Developer Intern at Groomer(SMM) and Bootstrap Coding Internship at Suven Consultants & Technology Pvt. Ltd.I have always been a quick learner, readily grasping things, and my skills to work as a part of a team have been positive traits. I am eager for the opportunity to grow and challenge my personal and profession skills.",
+    bio : "I am currently working as a FullStack Developer at FundFixr and as a Research Associate at Phronesis Partners.I am an enthusiast who always tries to come up with innovative solutions and ideas for making the project successful. My problem-solving skills are a positive factor. I was technical head of Computer Society Of India CUSC. I worked as a Web Developer Intern at Groomer(SMM) and Bootstrap Coding Internship at Suven Consultants & Technology Pvt. Ltd.I have always been a quick learner, readily grasping things, and my skills to work as a part of a team have been positive traits. I am eager for the opportunity to grow and challenge my personal and profession skills.",
     achievements : [
         {
             id : 1,

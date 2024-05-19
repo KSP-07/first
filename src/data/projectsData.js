@@ -5,7 +5,7 @@ import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+import ten from '../assets/svg/projects/ten.svg'
 
 
 export const projectsData = [
@@ -29,22 +29,22 @@ export const projectsData = [
     },
     {
         id: 3,
+        projectName: 'Social ChatApp',
+        projectDesc: 'This project involves the development of an application for secure login, sharing post, like-dislike, follow-unfollow, chatting, along with multiple utils.',
+        tags: ['React', 'Nodejs','MongoDb','Socket.io'],
+        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: ten
+    },
+    {
+        id: 4,
         projectName: 'Student Record Management System',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
+        projectDesc: 'Defined features for adding, updating, and searching student information, implementing a hashing algorithm for 95% improved search efficiency.',
+        tags: ['C++', 'OOPS'],
         // code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',

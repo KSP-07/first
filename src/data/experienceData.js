@@ -1,18 +1,18 @@
 export const experienceData = [
     {
-        id: 1,
-        company: 'Phroneis Partners',
-        jobtitle: 'Research Associate',
-        startYear: '2024',
-        endYear: 'Present'
-    },
-    // {
-    //     id: 2,
-    //     company: 'Vehement Capital Partners',
-    //     jobtitle: 'Backend Developer',
-    //     startYear: '2019',
-    //     endYear: '2020'
-    // },
+            id: 1,
+            company: 'FundFixr',
+            jobtitle: 'FullStack Developer',
+            startYear: '2024',
+            endYear: 'Present'
+        },
+        {
+            id: 2,
+            company: 'Phroneis Partners',
+            jobtitle: 'Research Associate',
+            startYear: '2024',
+            endYear: 'Present'
+        },
     {
         id: 3,
         company: 'Groomer(SMM)',
