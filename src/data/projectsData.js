@@ -1,4 +1,4 @@
-import one from '../assets/svg/projects/one.svg'
+import one from '../assets/svg/projects/weather.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
@@ -9,21 +9,12 @@ import ten from '../assets/svg/projects/ten.svg'
 
 
 export const projectsData = [
-    // {
-    //     id: 1,
-    //     projectName: 'Employee Management',
-    //     projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-    //     tags: ['React', 'CSS', 'Material Ui'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: one
-    // },
     {
         id: 2,
         projectName: 'Journal App ',
         projectDesc: 'This project is a Microservice Development that allows users to authenticate and REST API endpoints for journal creation, update, and deletion, security measures by integrating JWT authentication for protected endpoints.',
         tags: ['Nodejs', 'MySQL CSS'],
-        // code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        code: 'https://github.com/KSP-07',
         // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: two
     },
@@ -32,9 +23,18 @@ export const projectsData = [
         projectName: 'Social ChatApp',
         projectDesc: 'This project involves the development of an application for secure login, sharing post, like-dislike, follow-unfollow, chatting, along with multiple utils.',
         tags: ['React', 'Nodejs','MongoDb','Socket.io'],
-        code: '',
+        code: 'https://github.com/KSP-07',
         demo: '',
         image: ten
+    },
+    {
+        id: 1,
+        projectName: 'Weather-App',
+        projectDesc: 'Simple weather api integration, to display temperature and some weather information.',
+        tags: ['React', 'CSS',],
+        code: 'https://github.com/KSP-07/Weather_app',
+        demo: 'https://weather-check-custom.netlify.app/',
+        image: one
     },
     {
         id: 4,
