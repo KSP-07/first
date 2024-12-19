@@ -2,13 +2,29 @@ import one from '../assets/svg/projects/weather.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
+import five from '../assets/svg/projects/movie-booking.jpg'
+import six from '../assets/svg/projects/6.jpg'
 import seven from '../assets/svg/projects/seven.svg'
 import ten from '../assets/svg/projects/ten.svg'
 
 
 export const projectsData = [
+   { id: 5,
+    projectName: 'Movie-Reservation System ',
+    projectDesc: 'Developed a movie reservation system using Node.js, DynamoDB for database management, Redis for caching, and React for frontend, it includes admin management, seat selection, user authentication, and seamless booking experience.',
+    tags: ['Nodejs', 'DynamoDB', 'Redis', 'React'],
+    code: 'https://github.com/KSP-07/Movie-Booking-System',
+    // demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    image: five
+},
+   { id: 6,
+    projectName: 'Space Invaders ',
+    projectDesc: 'Developed a Space Invaders game for PC, it is fun project to enhace javascript understanding',
+    tags: ['JavaScript', 'CSS', 'HTML'],
+    code: 'https://github.com/KSP-07/Space-Invaders',
+    demo: 'https://space-invader-ksp.netlify.app/',
+    image: six
+},
     {
         id: 2,
         projectName: 'Journal App ',

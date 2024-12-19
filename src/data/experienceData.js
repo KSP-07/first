@@ -1,17 +1,17 @@
 export const experienceData = [
     {
             id: 1,
-            company: 'FundFixr',
-            jobtitle: 'FullStack Developer',
-            startYear: '2024',
+            company: 'Compro Technologies',
+            jobtitle: 'Software Developer',
+            startYear: '2024/07',
             endYear: 'Present'
         },
-        {
+    {
             id: 2,
-            company: 'Phroneis Partners',
-            jobtitle: 'Research Associate',
-            startYear: '2024',
-            endYear: 'Present'
+            company: 'FundFixr',
+            jobtitle: 'FullStack Developer',
+            startYear: '2024/01',
+            endYear: '2024/06'
         },
     {
         id: 3,
